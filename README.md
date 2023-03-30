@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Java Spring Boot and React<br>I'm exploring Node js and MERN stack<br>
+I'm currently working on Java Spring Boot and React<br>I'm exploring Node js and MERN stack<br><br>I love to explore new tech!<br>
 
 
 ## 🌐 Socials:
